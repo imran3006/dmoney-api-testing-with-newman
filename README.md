@@ -6,8 +6,8 @@
 2.Open terminal inside the project folder  
 3.Give following command: 
 
-npm i 
-npm test  
+npm i  
+npm test   
 
 this command will generate html reports on default browser.![html_report](https://user-images.githubusercontent.com/62753355/175663795-d77e64a7-af6d-43e2-a81d-d67360052b47.PNG)
  
